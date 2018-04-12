@@ -1,2 +1,2 @@
 # Ctalk
-Claremont Talk fro CS 135
+Claremont Talk for CS 135
