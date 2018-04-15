@@ -10,7 +10,7 @@ USE ClaremontTalk;
 /* A table to hold each user */
 CREATE TABLE User(
     userId INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    username  VARCHAR(256) NOT NULL,
+    email VARCHAR(256) NOT NULL,
     password VARCHAR(256) NOT NULL,
     school VARCHAR(256) NOT NULL,
     admin INT UNSIGNED NOT NULL
